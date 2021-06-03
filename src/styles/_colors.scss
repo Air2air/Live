@@ -1,0 +1,79 @@
+$orange: #ff9000;
+$body-text: #5a6169;
+$heading-text: #212529;
+$link-color: #0067f4;
+
+$hover-blue: #5fa0fa;
+
+$blue: #007bff !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #e83e8c !default;
+$red: #dc3545 !default;
+$orange: #fd7e14 !default;
+$yellow: #ffc107 !default;
+$green: #28a745 !default;
+$teal: #20c997 !default;
+$cyan: #17a2b8 !default;
+
+$background: $orange;
+
+
+body {
+  transition: background-color 0.3s;
+}
+
+$text-lighten:45%;
+
+body {
+  &.blue {
+    $basecolor: $blue;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.indigo {
+    $basecolor: $indigo;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.purple {
+    $basecolor: $purple;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.pink {
+    $basecolor: $pink;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.red {
+    $basecolor: $red;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.orange {
+    $basecolor: $orange;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.yellow {
+    $basecolor: $yellow;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.green{
+    $basecolor: $green;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.teal{
+    $basecolor: $teal;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+  &.cyan{
+    $basecolor: $cyan;
+    color: lighten($basecolor, $text-lighten);
+    background: $basecolor;
+  }
+}

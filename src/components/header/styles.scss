@@ -1,0 +1,6 @@
+@import "./../../styles/_animations.scss";
+
+
+.nav-icon-link[reaction="1"] {
+  animation: expand-big 0.3s 1;
+}

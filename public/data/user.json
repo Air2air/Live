@@ -1,0 +1,21 @@
+{
+    "user": [
+        {
+            "userId": 2,
+            "nameFirst": "Camille",
+            "nameLast": "Dunning",
+            "device": [
+                {
+                    "id": 1,
+                    "name": "Device One"
+                },
+                {
+                    "id": 2,
+                    "name": "Device Two"
+                }
+            ],
+            "occupation":[],
+            "interests":[]
+        }
+    ]
+}

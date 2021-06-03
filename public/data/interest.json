@@ -1,0 +1,1056 @@
+ {
+    "interest": [
+        {
+            "categoryId": 1,
+            "description": "Business and Industry",
+            "secondLevel": [
+                {
+                    "name": "Advertising",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Agriculture",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Architecture",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Aviation",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Banking",
+                    "thirdLevel": [
+                        {
+                            "name": "Investment banking"
+                        },
+                        {
+                            "name": "Online banking"
+                        },
+                        {
+                            "name": "Retail banking"
+                        }
+                    ]
+                },
+                {
+                    "name": "Business",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Construction",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Design",
+                    "thirdLevel": [
+                        {
+                            "name": "Fashion design"
+                        },
+                        {
+                            "name": "Graphic design"
+                        },
+                        {
+                            "name": "Interior design"
+                        }
+                    ]
+                },
+                {
+                    "name": "Economics",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Engineering",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Entrepreneurship",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Health care",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Higher education",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Management",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Marketing",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Nursing",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Online",
+                    "thirdLevel": [
+                        {
+                            "name": "Digital marketing"
+                        },
+                        {
+                            "name": "Display advertising"
+                        },
+                        {
+                            "name": "Email marketing"
+                        },
+                        {
+                            "name": "Online advertising"
+                        },
+                        {
+                            "name": "Search engine optimization"
+                        },
+                        {
+                            "name": "Social media"
+                        },
+                        {
+                            "name": "Social media marketing"
+                        },
+                        {
+                            "name": "Web design"
+                        },
+                        {
+                            "name": "Web development"
+                        },
+                        {
+                            "name": "Web hosting"
+                        }
+                    ]
+                },
+                {
+                    "name": "Personal finance",
+                    "thirdLevel": [
+                        {
+                            "name": "Creditcards"
+                        },
+                        {
+                            "name": "Insurance"
+                        },
+                        {
+                            "name": "Investment"
+                        },
+                        {
+                            "name": "Mortgage loans"
+                        }
+                    ]
+                },
+                {
+                    "name": "Real estate",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Retail",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Sales",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Science",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Small business",
+                    "thirdLevel": null
+                }
+            ]
+        },
+        {
+            "categoryId": 2,
+            "description": "Entertainment",
+            "secondLevel": [
+                {
+                    "name": "Games",
+                    "thirdLevel": [
+                        {
+                            "name": "Action games"
+                        },
+                        {
+                            "name": "Board games"
+                        },
+                        {
+                            "name": "Browser games"
+                        },
+                        {
+                            "name": "Card games"
+                        },
+                        {
+                            "name": "Casino games"
+                        },
+                        {
+                            "name": "First-person shooter games"
+                        },
+                        {
+                            "name": "Gambling"
+                        },
+                        {
+                            "name": "Massively multiplayer online games"
+                        },
+                        {
+                            "name": "Massively multiplayer online role-playing games"
+                        },
+                        {
+                            "name": "Online games"
+                        },
+                        {
+                            "name": "Online poker"
+                        },
+                        {
+                            "name": "Puzzle video games"
+                        },
+                        {
+                            "name": "Racing games"
+                        },
+                        {
+                            "name": "Role-playing games"
+                        },
+                        {
+                            "name": "Shooter games"
+                        },
+                        {
+                            "name": "Simulation games"
+                        },
+                        {
+                            "name": "Sports games"
+                        },
+                        {
+                            "name": "Strategy games"
+                        },
+                        {
+                            "name": "Video games"
+                        },
+                        {
+                            "name": "Word games"
+                        }
+                    ]
+                },
+                {
+                    "name": "Live events",
+                    "thirdLevel": [
+                        {
+                            "name": "Ballet"
+                        },
+                        {
+                            "name": "Bars"
+                        },
+                        {
+                            "name": "Concerts"
+                        },
+                        {
+                            "name": "Dancehalls"
+                        },
+                        {
+                            "name": "Music festivals"
+                        },
+                        {
+                            "name": "Nightclubs"
+                        },
+                        {
+                            "name": "Parties"
+                        },
+                        {
+                            "name": "Plays"
+                        },
+                        {
+                            "name": "Theatre"
+                        }
+                    ]
+                },
+                {
+                    "name": "Movies",
+                    "thirdLevel": [
+                        {
+                            "name": "Action movies"
+                        },
+                        {
+                            "name": "Animated movies"
+                        },
+                        {
+                            "name": "Anime movies"
+                        },
+                        {
+                            "name": "Bollywood movies"
+                        },
+                        {
+                            "name": "Comedy movies"
+                        },
+                        {
+                            "name": "Documentary movies"
+                        },
+                        {
+                            "name": "Drama movies"
+                        },
+                        {
+                            "name": "Fantasy movies"
+                        },
+                        {
+                            "name": "Horror movies"
+                        },
+                        {
+                            "name": "Musical theatre"
+                        },
+                        {
+                            "name": "Science fiction movies"
+                        },
+                        {
+                            "name": "Thriller movies"
+                        }
+                    ]
+                },
+                {
+                    "name": "Music",
+                    "thirdLevel": [
+                        {
+                            "name": "Blues music"
+                        },
+                        {
+                            "name": "Classical music"
+                        },
+                        {
+                            "name": "Country music"
+                        },
+                        {
+                            "name": "Dance music"
+                        },
+                        {
+                            "name": "Electronic music"
+                        },
+                        {
+                            "name": "Gospel music"
+                        },
+                        {
+                            "name": "Heavy metal music"
+                        },
+                        {
+                            "name": "Hip hop music"
+                        },
+                        {
+                            "name": "Jazz music"
+                        },
+                        {
+                            "name": "Music videos"
+                        },
+                        {
+                            "name": "Pop music"
+                        },
+                        {
+                            "name": "Rhythm and blues music"
+                        },
+                        {
+                            "name": "Rock musicSoul music"
+                        }
+                    ]
+                },
+                {
+                    "name": "Reading",
+                    "thirdLevel": [
+                        {
+                            "name": "Books"
+                        },
+                        {
+                            "name": "Comics"
+                        },
+                        {
+                            "name": "E-books"
+                        },
+                        {
+                            "name": "Fiction books"
+                        },
+                        {
+                            "name": "Literature"
+                        },
+                        {
+                            "name": "Magazines"
+                        },
+                        {
+                            "name": "Manga"
+                        },
+                        {
+                            "name": "Mystery fiction"
+                        },
+                        {
+                            "name": "Newspapers"
+                        },
+                        {
+                            "name": "Non-fiction books"
+                        },
+                        {
+                            "name": "Romance novels"
+                        }
+                    ]
+                },
+                {
+                    "name": "TV",
+                    "thirdLevel": [
+                        {
+                            "name": "TV comedies"
+                        },
+                        {
+                            "name": "TV game shows"
+                        },
+                        {
+                            "name": "TV reality shows"
+                        },
+                        {
+                            "name": "TV talkshows"
+                        }
+                    ]
+                },
+                {
+                    "categoryId": 3,
+                    "description": "Family and relationships",
+                    "secondLevel": [
+                        {
+                            "name": "Bodybuilding",
+                            "thirdLevel": null
+                        },
+                        {
+                            "name": "Meditation",
+                            "thirdLevel": null
+                        },
+                        {
+                            "name": "Physical exercise",
+                            "thirdLevel": null
+                        },
+                        {
+                            "name": "Physical fitness",
+                            "thirdLevel": null
+                        },
+                        {
+                            "name": "Running",
+                            "thirdLevel": null
+                        },
+                        {
+                            "name": "Weight training",
+                            "thirdLevel": null
+                        },
+                        {
+                            "name": "Yoga",
+                            "thirdLevel": null
+                        }
+                    ],
+                    "category": "Fitness and wellness"
+                }
+            ]
+        },
+        {
+            "categoryId": 3,
+            "description": "Food and drink",
+            "secondLevel": [
+                {
+                    "name": "Alcoholic beverages",
+                    "thirdLevel": [
+                        {
+                            "name": "Beer"
+                        },
+                        {
+                            "name": "Distilled beverage"
+                        },
+                        {
+                            "name": "Wine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "thirdLevel": [
+                        {
+                            "name": "Coffee"
+                        },
+                        {
+                            "name": "Energy drinks"
+                        },
+                        {
+                            "name": "Juice"
+                        },
+                        {
+                            "name": "Soft drinks"
+                        },
+                        {
+                            "name": "Tea"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cooking",
+                    "thirdLevel": [
+                        {
+                            "name": "Baking"
+                        },
+                        {
+                            "name": "Recipes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cuisine",
+                    "thirdLevel": [
+                        {
+                            "name": "Chinese cuisine"
+                        },
+                        {
+                            "name": "French cuisine"
+                        },
+                        {
+                            "name": "German cuisine"
+                        },
+                        {
+                            "name": "Greek cuisine"
+                        },
+                        {
+                            "name": "Indian cuisine"
+                        },
+                        {
+                            "name": "Italian cuisine"
+                        },
+                        {
+                            "name": "Japanese cuisine"
+                        },
+                        {
+                            "name": "Korean cuisine"
+                        },
+                        {
+                            "name": "Latin American cuisine"
+                        },
+                        {
+                            "name": "Mexican cuisine"
+                        },
+                        {
+                            "name": "Middle Eastern cuisine"
+                        },
+                        {
+                            "name": "secondish cuisine"
+                        },
+                        {
+                            "name": "Thai cuisine"
+                        },
+                        {
+                            "name": "Vietnamese cuisine"
+                        }
+                    ]
+                },
+                {
+                    "name": "Food",
+                    "thirdLevel": [
+                        {
+                            "name": "Barbecue"
+                        },
+                        {
+                            "name": "Chocolate"
+                        },
+                        {
+                            "name": "Desserts"
+                        },
+                        {
+                            "name": "Fast food"
+                        },
+                        {
+                            "name": "Organic food"
+                        },
+                        {
+                            "name": "Pizza"
+                        },
+                        {
+                            "name": "Seafood"
+                        },
+                        {
+                            "name": "Veganism"
+                        },
+                        {
+                            "name": "Vegetarianism"
+                        }
+                    ]
+                },
+                {
+                    "name": "Restaurants",
+                    "thirdLevel": [
+                        {
+                            "name": "Coffeehouses"
+                        },
+                        {
+                            "name": "Diners"
+                        },
+                        {
+                            "name": "Fast casual restaurants"
+                        },
+                        {
+                            "name": "Fast food restaurants"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": 4,
+            "description": "Hobbies and activities",
+            "secondLevel": [
+                {
+                    "name": "Arts and music",
+                    "thirdLevel": [
+                        {
+                            "name": "Acting"
+                        },
+                        {
+                            "name": "Crafts"
+                        },
+                        {
+                            "name": "Dance"
+                        },
+                        {
+                            "name": "Drawing"
+                        },
+                        {
+                            "name": "Drums"
+                        },
+                        {
+                            "name": "Fine art"
+                        },
+                        {
+                            "name": "Guitar"
+                        },
+                        {
+                            "name": "Painting"
+                        },
+                        {
+                            "name": "Performing arts"
+                        },
+                        {
+                            "name": "Photography"
+                        },
+                        {
+                            "name": "Sculpture"
+                        },
+                        {
+                            "name": "Singing"
+                        },
+                        {
+                            "name": "Writing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Current events",
+                    "thirdLevel": null
+                },
+                {
+                    "name": "Home and garden",
+                    "thirdLevel": [
+                        {
+                            "name": "Do it yourself (DIY)"
+                        },
+                        {
+                            "name": "Furniture"
+                        },
+                        {
+                            "name": "Gardening"
+                        },
+                        {
+                            "name": "Home Appliances"
+                        },
+                        {
+                            "name": "Home improvement"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pets",
+                    "thirdLevel": [
+                        {
+                            "name": "Birds"
+                        },
+                        {
+                            "name": "Cats"
+                        },
+                        {
+                            "name": "Dogs"
+                        },
+                        {
+                            "name": "Fish"
+                        },
+                        {
+                            "name": "Horses"
+                        },
+                        {
+                            "name": "Pet food"
+                        },
+                        {
+                            "name": "Rabbits"
+                        },
+                        {
+                            "name": "Reptiles"
+                        }
+                    ]
+                },
+                {
+                    "name": "Politics and social issues",
+                    "thirdLevel": [
+                        {
+                            "name": "Charity and causes"
+                        },
+                        {
+                            "name": "Community issues"
+                        },
+                        {
+                            "name": "Environmentalism"
+                        },
+                        {
+                            "name": "Law"
+                        },
+                        {
+                            "name": "Military"
+                        },
+                        {
+                            "name": "Politics"
+                        },
+                        {
+                            "name": "Religion"
+                        },
+                        {
+                            "name": "Sustainability"
+                        },
+                        {
+                            "name": "Veterans"
+                        },
+                        {
+                            "name": "Volunteering"
+                        }
+                    ]
+                },
+                {
+                    "name": "Travel",
+                    "thirdLevel": [
+                        {
+                            "name": "Adventure travel"
+                        },
+                        {
+                            "name": "Air travel"
+                        },
+                        {
+                            "name": "Beaches"
+                        },
+                        {
+                            "name": "Car rentals"
+                        },
+                        {
+                            "name": "Cruises"
+                        },
+                        {
+                            "name": "Ecotourism"
+                        },
+                        {
+                            "name": "Hotels"
+                        },
+                        {
+                            "name": "Lakes"
+                        },
+                        {
+                            "name": "Mountains"
+                        },
+                        {
+                            "name": "Nature"
+                        },
+                        {
+                            "name": "Theme parks"
+                        },
+                        {
+                            "name": "Tourism"
+                        },
+                        {
+                            "name": "Vacations"
+                        }
+                    ]
+                },
+                {
+                    "name": "Vehicles",
+                    "thirdLevel": [
+                        {
+                            "name": "Automobiles"
+                        },
+                        {
+                            "name": "Boats"
+                        },
+                        {
+                            "name": "Electric vehicle"
+                        },
+                        {
+                            "name": "Hybrids"
+                        },
+                        {
+                            "name": "Minivans"
+                        },
+                        {
+                            "name": "Motorcycles"
+                        },
+                        {
+                            "name": "RVs"
+                        },
+                        {
+                            "name": "SUVs"
+                        },
+                        {
+                            "name": "Scooters"
+                        },
+                        {
+                            "name": "Trucks"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": 5,
+            "description": "Shopping and fashion",
+            "secondLevel": [
+                {
+                    "name": "Beauty",
+                    "thirdLevel": [
+                        {
+                            "name": "Beauty salons"
+                        },
+                        {
+                            "name": "Cosmetics"
+                        },
+                        {
+                            "name": "Fragrances"
+                        },
+                        {
+                            "name": "Hair products"
+                        },
+                        {
+                            "name": "Spas"
+                        },
+                        {
+                            "name": "Tattoos"
+                        }
+                    ]
+                },
+                {
+                    "name": "Clothing",
+                    "thirdLevel": [
+                        {
+                            "name": "Children’s clothing"
+                        },
+                        {
+                            "name": "Men’s clothing"
+                        },
+                        {
+                            "name": "Shoes"
+                        },
+                        {
+                            "name": "Women’s clothing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fashion accessories",
+                    "thirdLevel": [
+                        {
+                            "name": "Dresses"
+                        },
+                        {
+                            "name": "Handbags"
+                        },
+                        {
+                            "name": "Jewelry"
+                        },
+                        {
+                            "name": "Sunglasses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shopping",
+                    "thirdLevel": [
+                        {
+                            "name": "Boutiques"
+                        },
+                        {
+                            "name": "Coupons"
+                        },
+                        {
+                            "name": "Discount stores"
+                        },
+                        {
+                            "name": "Luxury goods"
+                        },
+                        {
+                            "name": "Online shopping"
+                        },
+                        {
+                            "name": "Shopping malls"
+                        }
+                    ]
+                },
+                {
+                    "name": "Toys",
+                    "thirdLevel": null
+                }
+            ]
+        },
+        {
+            "categoryId": 6,
+            "description": "Sports and outdoors",
+            "secondLevel": [
+                {
+                    "name": "Outdoor recreation",
+                    "thirdLevel": [
+                        {
+                            "name": "Boating"
+                        },
+                        {
+                            "name": "Camping"
+                        },
+                        {
+                            "name": "Fishing"
+                        },
+                        {
+                            "name": "Horseback riding"
+                        },
+                        {
+                            "name": "Hunting"
+                        },
+                        {
+                            "name": "Mountain biking"
+                        },
+                        {
+                            "name": "Surfing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sports",
+                    "thirdLevel": [
+                        {
+                            "name": "American football"
+                        },
+                        {
+                            "name": "Association football (Soccer)"
+                        },
+                        {
+                            "name": "Auto racing"
+                        },
+                        {
+                            "name": "Baseball"
+                        },
+                        {
+                            "name": "Basketball"
+                        },
+                        {
+                            "name": "College football"
+                        },
+                        {
+                            "name": "Golf"
+                        },
+                        {
+                            "name": "Marathons"
+                        },
+                        {
+                            "name": "Skiing"
+                        },
+                        {
+                            "name": "Snowboarding"
+                        },
+                        {
+                            "name": "Swimming"
+                        },
+                        {
+                            "name": "Tennis"
+                        },
+                        {
+                            "name": "Thriathlons"
+                        },
+                        {
+                            "name": "Volleyball"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": 7,
+            "description": "Technology",
+            "secondLevel": [
+                {
+                    "name": "Computers",
+                    "thirdLevel": [
+                        {
+                            "name": "Computer memory"
+                        },
+                        {
+                            "name": "Computer monitors"
+                        },
+                        {
+                            "name": "Computer processors"
+                        },
+                        {
+                            "name": "Computer servers"
+                        },
+                        {
+                            "name": "Desktop computers"
+                        },
+                        {
+                            "name": "Free software"
+                        },
+                        {
+                            "name": "Hard drives"
+                        },
+                        {
+                            "name": "Network storage"
+                        },
+                        {
+                            "name": "Software"
+                        },
+                        {
+                            "name": "Tablet computers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Consumer electronics",
+                    "thirdLevel": [
+                        {
+                            "name": "Audio equipment"
+                        },
+                        {
+                            "name": "Camcorders"
+                        },
+                        {
+                            "name": "Cameras"
+                        },
+                        {
+                            "name": "E-book readers"
+                        },
+                        {
+                            "name": "GPS devices"
+                        },
+                        {
+                            "name": "Game consoles"
+                        },
+                        {
+                            "name": "Mobile phones"
+                        },
+                        {
+                            "name": "Portable media players"
+                        },
+                        {
+                            "name": "Projectors"
+                        },
+                        {
+                            "name": "Smartphones"
+                        },
+                        {
+                            "name": "Televisions"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

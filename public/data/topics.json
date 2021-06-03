@@ -1,0 +1,84 @@
+{
+  "topics": [
+    {
+      "topicId": 1,
+      "category": "interest",
+      "gender": "m",
+      "content": "People who like kitties as much as me feed them around 9:00 am.",
+      "confidence": 61,
+      "firstButton": "Don't like kitties",
+      "secondButton": "Cool",
+      "color":"teal"
+    },
+    {
+      "topicId": 2,
+      "category": "occupation",
+      "gender": "f",
+      "content": "I'm ten years younger than the average Data Scientist.",
+      "confidence": 74,
+      "firstButton": "No I'm not",
+      "secondButton": "Cool",
+      "color":"green"
+    },
+    {
+      "topicId": 3,
+      "category": "location",
+      "gender": "m",
+      "content": "People on Misty Lane are about 10 years older than you.",
+      "confidence": 89,
+      "firstButton": "No they're not",
+      "secondButton": "I believe it",
+      "color":"red"
+    },
+    {
+      "topicId": 4,
+      "category": "time",
+      "gender": "f",
+      "content": "The most successful data scientists in silicon valley stop working at 10pm.",
+      "confidence": 36,
+      "firstButton": "Not me",
+      "secondButton": "OK I will",
+      "color":"purple"
+    },
+    {
+      "topicId": 5,
+      "category": "mood",
+      "gender": "m",
+      "content": "VW Beetle owners are extremely happy.",
+      "confidence": 57,
+      "firstButton": "Meh",
+      "secondButton": "So true",
+      "color":"orange"
+    },
+    {
+      "topicId": 6,
+      "category": "health",
+      "gender": "m",
+      "content": "VW Beetle owners who listen to EDM go to bed at 5am",
+      "confidence": 63,
+      "firstButton": "Not this one",
+      "secondButton": "Definitely",
+      "color":"pink"
+    },
+    {
+      "topicId": 7,
+      "category": "discovery",
+      "gender": "m",
+      "content": "Cat lovers in the Bay Area make more money than non-cat lovers.",
+      "confidence": 83,
+      "firstButton": "Not this one",
+      "secondButton": "Agreed",
+      "color":"green"
+    },
+    {
+      "topicId": 8,
+      "category": "discovery",
+      "gender": "m",
+      "content": "Data scientists who like cats and EDM music prefer Daft Punk.",
+      "confidence": 53,
+      "firstButton": "Not me",
+      "secondButton": "True that",
+      "color":"blue"
+    }
+  ]
+}

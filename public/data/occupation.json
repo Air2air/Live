@@ -1,0 +1,752 @@
+{
+	"occupation": [
+		{
+			"categoryId": 1,
+			"name": "Managers",
+			"position": [
+				{
+					"id": 11,
+					"name": "Chief executives, senior officials and legislators"
+				},
+				{
+					"id": 111,
+					"name": "Legislators and senior officials"
+				},
+				{
+					"id": 112,
+					"name": "Managing directors and chief executives"
+				},
+				{
+					"id": 12,
+					"name": "Administrative and commercial managers"
+				},
+				{
+					"id": 121,
+					"name": "Business services and administration managers"
+				},
+				{
+					"id": 122,
+					"name": "Sales, marketing and development managers"
+				},
+				{
+					"id": 13,
+					"name": "Production and specialized services managers"
+				},
+				{
+					"id": 131,
+					"name": "Production managers in agriculture, forestry and fisheries"
+				},
+				{
+					"id": 132,
+					"name": "Manufacturing, mining, construction, and distribution managers"
+				},
+				{
+					"id": 133,
+					"name": "Information and communications technology service managers"
+				},
+				{
+					"id": 134,
+					"name": "Professional services managers"
+				},
+				{
+					"id": 14,
+					"name": "Hospitality, retail and other services managers"
+				},
+				{
+					"id": 141,
+					"name": "Hotel and restaurant managers"
+				},
+				{
+					"id": 142,
+					"name": "Retail and wholesale trade managers"
+				},
+				{
+					"id": 143,
+					"name": "Other services managers"
+				}
+			]
+		},
+		{
+			"categoryId": 2,
+			"name": "Professionals",
+			"position": [
+				{
+					"id": 21,
+					"name": "Science and engineering professionals"
+				},
+				{
+					"id": 211,
+					"name": "Physical and earth science professionals"
+				},
+				{
+					"id": 212,
+					"name": "Mathematicians, actuaries and statisticians"
+				},
+				{
+					"id": 213,
+					"name": "Life science professionals"
+				},
+				{
+					"id": 214,
+					"name": "Engineering professionals (excluding electrotechnology)"
+				},
+				{
+					"id": 215,
+					"name": "Electrotechnology engineers"
+				},
+				{
+					"id": 216,
+					"name": "Architects, planners, surveyors and designers"
+				},
+				{
+					"id": 22,
+					"name": "Health professionals"
+				},
+				{
+					"id": 221,
+					"name": "Medical doctors"
+				},
+				{
+					"id": 222,
+					"name": "Nursing and midwifery professionals"
+				},
+				{
+					"id": 223,
+					"name": "Traditional and complementary medicine professionals"
+				},
+				{
+					"id": 224,
+					"name": "Paramedical practitioners"
+				},
+				{
+					"id": 225,
+					"name": "Veterinarians"
+				},
+				{
+					"id": 226,
+					"name": "Other health professionals"
+				},
+				{
+					"id": 227,
+					"name": "Medical Assistant professionals"
+				},
+				{
+					"id": 23,
+					"name": "Teaching professionals"
+				},
+				{
+					"id": 231,
+					"name": "University and higher education teachers"
+				},
+				{
+					"id": 232,
+					"name": "Vocational education teachers"
+				},
+				{
+					"id": 233,
+					"name": "Secondary education teachers"
+				},
+				{
+					"id": 234,
+					"name": "Primary school and early childhood teachers"
+				},
+				{
+					"id": 235,
+					"name": "Other teaching professionals"
+				},
+				{
+					"id": 24,
+					"name": "Business and administration professionals"
+				},
+				{
+					"id": 241,
+					"name": "Finance professionals"
+				},
+				{
+					"id": 242,
+					"name": "Administration professionals"
+				},
+				{
+					"id": 243,
+					"name": "Sales, marketing and public relations professionals"
+				},
+				{
+					"id": 25,
+					"name": "Information and communications technology professionals"
+				},
+				{
+					"id": 251,
+					"name": "Software and applications developers and analysts"
+				},
+				{
+					"id": 252,
+					"name": "Database and network professionals"
+				},
+				{
+					"id": 26,
+					"name": "Legal, social and cultural professionals"
+				},
+				{
+					"id": 261,
+					"name": "Legal professionals"
+				},
+				{
+					"id": 262,
+					"name": "Librarians, archivists and curators"
+				},
+				{
+					"id": 263,
+					"name": "Social and religious professionals"
+				},
+				{
+					"id": 264,
+					"name": "Authors, journalists and linguists"
+				},
+				{
+					"id": 265,
+					"name": "Creative and performing artists"
+				}
+			]
+		},
+		{
+			"categoryId": 3,
+			"name": "Technicians and associate professionals",
+			"position": [
+				{
+					"id": 3,
+					"name": "Technicians and associate professionals"
+				},
+				{
+					"id": 31,
+					"name": "Science and engineering associate professionals"
+				},
+				{
+					"id": 311,
+					"name": "Physical and engineering science technicians"
+				},
+				{
+					"id": 312,
+					"name": "Mining, manufacturing and construction supervisors"
+				},
+				{
+					"id": 313,
+					"name": "Process control technicians"
+				},
+				{
+					"id": 314,
+					"name": "Life science technicians and related associate professionals"
+				},
+				{
+					"id": 315,
+					"name": "Ship and aircraft controllers and technicians"
+				},
+				{
+					"id": 32,
+					"name": "Health associate professionals"
+				},
+				{
+					"id": 321,
+					"name": "Medical and pharmaceutical technicians"
+				},
+				{
+					"id": 322,
+					"name": "Nursing and midwifery associate professionals"
+				},
+				{
+					"id": 323,
+					"name": "Traditional and complementary medicine associate professionals"
+				},
+				{
+					"id": 324,
+					"name": "Veterinary technicians and assistants"
+				},
+				{
+					"id": 325,
+					"name": "Other health associate professionals"
+				},
+				{
+					"id": 33,
+					"name": "Business and administration associate professionals"
+				},
+				{
+					"id": 331,
+					"name": "Financial and mathematical associate professionals"
+				},
+				{
+					"id": 332,
+					"name": "Sales and purchasing agents and brokers"
+				},
+				{
+					"id": 333,
+					"name": "Business services agents"
+				},
+				{
+					"id": 334,
+					"name": "Administrative and specialized secretaries"
+				},
+				{
+					"id": 335,
+					"name": "Regulatory government associate professionals"
+				},
+				{
+					"id": 34,
+					"name": "Legal, social, cultural and related associate professionals"
+				},
+				{
+					"id": 341,
+					"name": "Legal, social and religious associate professionals"
+				},
+				{
+					"id": 342,
+					"name": "Sports and fitness workers"
+				},
+				{
+					"id": 343,
+					"name": "Artistic, cultural and culinary associate professionals"
+				},
+				{
+					"id": 35,
+					"name": "Information and communications technicians"
+				},
+				{
+					"id": 351,
+					"name": "Information and communications technology operations and user support technicians"
+				},
+				{
+					"id": 352,
+					"name": "Telecommunications and broadcasting technicians"
+				}
+			]
+		},
+		{
+			"categoryId": 4,
+			"name": "Clerical Support Workers",
+			"position": [
+				{
+					"id": 41,
+					"name": "General and keyboard clerks"
+				},
+				{
+					"id": 411,
+					"name": "General office clerks"
+				},
+				{
+					"id": 412,
+					"name": "Secretaries (general)"
+				},
+				{
+					"id": 413,
+					"name": "Keyboard operators"
+				},
+				{
+					"id": 42,
+					"name": "Customer services clerks"
+				},
+				{
+					"id": 421,
+					"name": "Tellers, money collectors and related clerks"
+				},
+				{
+					"id": 422,
+					"name": "Client information workers"
+				},
+				{
+					"id": 43,
+					"name": "Numerical and material recording clerks"
+				},
+				{
+					"id": 431,
+					"name": "Numerical clerks"
+				},
+				{
+					"id": 432,
+					"name": "Material-recording and transport clerks"
+				},
+				{
+					"id": 44,
+					"name": "Other clerical support workers"
+				},
+				{
+					"id": 441,
+					"name": "Other clerical support workers"
+				}
+			]
+		},
+		{
+			"categoryId": 5,
+			"name": "Service and Sales Workers",
+			"position": [
+				{
+					"id": 51,
+					"name": "Personal service workers"
+				},
+				{
+					"id": 511,
+					"name": "Travel attendants, conductors and guides"
+				},
+				{
+					"id": 512,
+					"name": "Cooks"
+				},
+				{
+					"id": 513,
+					"name": "Waiters and bartenders"
+				},
+				{
+					"id": 514,
+					"name": "Hairdressers, beauticians and related workers"
+				},
+				{
+					"id": 515,
+					"name": "Building and housekeeping supervisors"
+				},
+				{
+					"id": 516,
+					"name": "Other personal services workers"
+				},
+				{
+					"id": 52,
+					"name": "Sales workers"
+				},
+				{
+					"id": 521,
+					"name": "Street and market salespersons"
+				},
+				{
+					"id": 522,
+					"name": "Shop salespersons"
+				},
+				{
+					"id": 523,
+					"name": "Cashiers and ticket clerks"
+				},
+				{
+					"id": 524,
+					"name": "Other sales workers"
+				},
+				{
+					"id": 53,
+					"name": "Personal care workers"
+				},
+				{
+					"id": 531,
+					"name": "Child care workers and teachers aides"
+				},
+				{
+					"id": 532,
+					"name": "Personal care workers in health services"
+				},
+				{
+					"id": 54,
+					"name": "Protective services workers"
+				},
+				{
+					"id": 541,
+					"name": "Protective services workers"
+				}
+			]
+		},
+		{
+			"categoryId": 6,
+			"name": "Skilled agricultural, forestry and fishery workers",
+			"position": [
+				{
+					"id": 61,
+					"name": "Market-oriented skilled agricultural workers"
+				},
+				{
+					"id": 611,
+					"name": "Market gardeners and crop growers"
+				},
+				{
+					"id": 612,
+					"name": "Animal producers"
+				},
+				{
+					"id": 613,
+					"name": "Mixed crop and animal producers"
+				},
+				{
+					"id": 62,
+					"name": "Market-oriented skilled forestry, fishery and hunting workers"
+				},
+				{
+					"id": 621,
+					"name": "Forestry and related workers"
+				},
+				{
+					"id": 622,
+					"name": "Fishery workers, hunters and trappers"
+				},
+				{
+					"id": 63,
+					"name": "Subsistence farmers, fishers, hunters and gatherers"
+				},
+				{
+					"id": 631,
+					"name": "Subsistence crop farmers"
+				},
+				{
+					"id": 632,
+					"name": "Subsistence livestock farmers"
+				},
+				{
+					"id": 633,
+					"name": "Subsistence mixed crop and livestock farmers"
+				},
+				{
+					"id": 634,
+					"name": "Subsistence fishers, hunters, trappers and gatherers"
+				}
+			]
+		},
+		{
+			"categoryId": 7,
+			"name": "Craft and related trades workers",
+			"position": [
+				{
+					"id": 71,
+					"name": "Building and related trades workers, excluding electricians"
+				},
+				{
+					"id": 711,
+					"name": "Building frame and related trades workers"
+				},
+				{
+					"id": 712,
+					"name": "Building finishers and related trades workers"
+				},
+				{
+					"id": 713,
+					"name": "Painters, building structure cleaners and related trades workers"
+				},
+				{
+					"id": 72,
+					"name": "Metal, machinery and related trades workers"
+				},
+				{
+					"id": 721,
+					"name": "Sheet and structural metal workers, moulders and welders, and related workers"
+				},
+				{
+					"id": 722,
+					"name": "Blacksmiths, toolmakers and related trades workers"
+				},
+				{
+					"id": 723,
+					"name": "Machinery mechanics and repairers"
+				},
+				{
+					"id": 73,
+					"name": "Handicraft and printing workers"
+				},
+				{
+					"id": 731,
+					"name": "Handicraft workers"
+				},
+				{
+					"id": 732,
+					"name": "Printing trades workers"
+				},
+				{
+					"id": 74,
+					"name": "Electrical and electronic trades workers"
+				},
+				{
+					"id": 741,
+					"name": "Electrical equipment installers and repairers"
+				},
+				{
+					"id": 742,
+					"name": "Electronics and telecommunications installers and repairers"
+				},
+				{
+					"id": 75,
+					"name": "Food processing, wood working, garment and other craft and related trades workers"
+				},
+				{
+					"id": 751,
+					"name": "Food processing and related trades workers"
+				},
+				{
+					"id": 752,
+					"name": "Wood treaters, cabinet-makers and related trades workers"
+				},
+				{
+					"id": 753,
+					"name": "Garment and related trades workers"
+				},
+				{
+					"id": 754,
+					"name": "Other craft and related workers"
+				}
+			]
+		},
+		{
+			"categoryId": 8,
+			"name": "Plant and machine operators and assemblers",
+			"position": [
+				{
+					"id": 81,
+					"name": "Stationary plant and machine operators"
+				},
+				{
+					"id": 811,
+					"name": "Mining and mineral processing plant operators"
+				},
+				{
+					"id": 812,
+					"name": "Metal processing and finishing plant operators"
+				},
+				{
+					"id": 813,
+					"name": "Chemical and photographic products plant and machine operators"
+				},
+				{
+					"id": 814,
+					"name": "Rubber, plastic and paper products machine operators"
+				},
+				{
+					"id": 815,
+					"name": "Textile, fur and leather products machine operators"
+				},
+				{
+					"id": 816,
+					"name": "Food and related products machine operators"
+				},
+				{
+					"id": 817,
+					"name": "Wood processing and papermaking plant operators"
+				},
+				{
+					"id": 818,
+					"name": "Other stationary plant and machine operators"
+				},
+				{
+					"id": 82,
+					"name": "Assemblers"
+				},
+				{
+					"id": 821,
+					"name": "Assemblers"
+				},
+				{
+					"id": 83,
+					"name": "Drivers and mobile plant operators"
+				},
+				{
+					"id": 831,
+					"name": "Locomotive engine drivers and related workers"
+				},
+				{
+					"id": 832,
+					"name": "Car, van and motorcycle drivers"
+				},
+				{
+					"id": 833,
+					"name": "Heavy truck and bus drivers"
+				},
+				{
+					"id": 834,
+					"name": "Mobile plant operators"
+				},
+				{
+					"id": 835,
+					"name": "Ships deck crews and related workers"
+				}
+			]
+		},
+		{
+			"categoryId": 9,
+			"name": "Elementary occupations",
+			"position": [
+				{
+					"id": 91,
+					"name": "Cleaners and helpers"
+				},
+				{
+					"id": 911,
+					"name": "Domestic, hotel and office cleaners and helpers"
+				},
+				{
+					"id": 912,
+					"name": "Vehicle, window, laundry and other hand cleaning workers"
+				},
+				{
+					"id": 92,
+					"name": "Agricultural, forestry and fishery labourers"
+				},
+				{
+					"id": 921,
+					"name": "Agricultural, forestry and fishery labourers"
+				},
+				{
+					"id": 93,
+					"name": "Labourers in mining, construction, manufacturing and transport"
+				},
+				{
+					"id": 931,
+					"name": "Mining and construction labourers"
+				},
+				{
+					"id": 932,
+					"name": "Manufacturing labourers"
+				},
+				{
+					"id": 933,
+					"name": "Transport and storage labourers"
+				},
+				{
+					"id": 94,
+					"name": "Food preparation assistants"
+				},
+				{
+					"id": 941,
+					"name": "Food preparation assistants"
+				},
+				{
+					"id": 95,
+					"name": "Street and related sales and service workers"
+				},
+				{
+					"id": 951,
+					"name": "Street and related service workers"
+				},
+				{
+					"id": 952,
+					"name": "Street vendors (excluding food)"
+				},
+				{
+					"id": 96,
+					"name": "Refuse workers and other elementary workers"
+				},
+				{
+					"id": 961,
+					"name": "Refuse workers"
+				},
+				{
+					"id": 962,
+					"name": "Other elementary workers"
+				}
+			]
+		},
+		{
+			"categoryId": 10,
+			"name": "Armed forces occupations",
+			"position": [
+				{
+					"id": 101,
+					"name": "Commissioned armed forces officers"
+				},
+				{
+					"id": 102,
+					"name": "Non-commissioned armed forces officers"
+				},
+				{
+					"id": 103,
+					"name": "Armed forces occupations, other ranks"
+				}
+			]
+		}
+	]
+}
